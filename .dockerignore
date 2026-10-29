@@ -1,0 +1,16 @@
+.git
+.env
+.env.*
+!.env.example
+.venv
+__pycache__
+.pytest_cache
+.test-tmp*
+*.pyc
+*.sqlite3*
+data
+secrets
+.secrets
+backups
+evidence
+offline-demo-output

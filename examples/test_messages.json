@@ -1,0 +1,12 @@
+[
+  {"name":"Matti Esimerkki","email":"matti@esimerkki.fi","phone":null,"message":"Hei, tarvitsisimme kirjanpitäjän kolmen hengen rakennusyritykselle. Mitä palvelunne maksaa kuukaudessa?"},
+  {"name":"Liisa Testinen","email":"liisa@esimerkki.fi","phone":null,"message":"Milloin arvonlisäveroilmoitus pitää jättää, jos ilmoitusjakso on neljännesvuosi?"},
+  {"name":"SEO Masters","email":"seo@esimerkki.com","phone":null,"message":"We can get your website to Google's first page. Reply for a free audit!"},
+  {"name":"Pekka Kokeilu","email":"pekka@esimerkki.fi","phone":null,"message":"Olen jo asiakkaanne. Laskussa nro 1043 on väärä summa, voitteko tarkistaa?"},
+  {"name":"Anna Malli","email":"anna@esimerkki.fi","phone":null,"message":"Perustan toiminimen ensi kuussa ja haluaisin kuulla, voisitteko hoitaa kirjanpidon ja palkat."},
+  {"name":"Jukka Esimerkki","email":"jukka@esimerkki.fi","phone":null,"message":""},
+  {"name":"Sari Testi","email":"sari@esimerkki.fi","phone":null,"message":"Soittakaa mulle."},
+  {"name":"Tomi Kokeilu","email":"tomi@esimerkki.fi","phone":null,"message":"Paljonko maksaa tilinpäätös osakeyhtiölle? Liikevaihto noin 400 000 €."},
+  {"name":"Hanna Malli","email":"hanna@esimerkki.fi","phone":null,"message":"Kiitos eilisestä tapaamisesta! Lähetän puuttuvat kuitit huomenna."},
+  {"name":"Kalle Esimerkki","email":"kalle@esimerkki.fi","phone":null,"message":"Hei, haluaisin tarjouksen. Toisaalta en ole varma, tarvitsenko kirjanpitäjää vai riittääkö ohjelma. Mitä suosittelette?"}
+]
